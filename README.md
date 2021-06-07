@@ -1,4 +1,4 @@
-# Team Profile Generator 
+# Awesome Team Generator 
 ![Github licence](https://img.shields.io/badge/Vidfinnx-Complete-brightgreen)
 #
 
@@ -6,6 +6,9 @@
 #
 This project was made with node using npms of `Inquirer` and `Jest` for testing,
 it will prompt the user for information on their workforce team. It allows for one manager per team.
+
+![image](https://user-images.githubusercontent.com/79023746/120945362-9e480180-c6ed-11eb-891d-04158be5739e.png)
+
 #
 
 ## Table of Contents
@@ -29,7 +32,7 @@ it will prompt the user for information on their workforce team. It allows for o
 
 ## Usage
 #
-
+![TeamProfileGen](https://user-images.githubusercontent.com/79023746/120945333-7a84bb80-c6ed-11eb-80cd-83d05fa08e22.gif)
 #
 
 
