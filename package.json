@@ -1,0 +1,26 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "![Github licence](https://img.shields.io/badge/Vidfinnx-Complete-brightgreen)",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vidfinnx/Team-Generator.git"
+  },
+  "author": "Veikko Aho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vidfinnx/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/Vidfinnx/Team-Generator#readme",
+  "dependencies": {
+    "jest": "^27.0.4",
+    "requirer": "0.0.4"
+  }
+}
